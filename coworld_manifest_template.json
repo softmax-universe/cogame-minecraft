@@ -22,7 +22,7 @@
       "run": [
         "/bin/minecraft"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-minecraft/tree/main",
+      "source_url": "https://github.com/softmax-universe/cogame-minecraft/tree/main",
       "env": {}
     },
     "config_schema": {
@@ -609,17 +609,17 @@
     "protocols": {
       "player": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-minecraft/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-minecraft/blob/main/docs/PROTOCOL.md"
       },
       "global": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-minecraft/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-minecraft/blob/main/docs/PROTOCOL.md"
       }
     },
     "docs": {
       "readme": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-minecraft/blob/main/README.md"
+        "value": "https://github.com/softmax-universe/cogame-minecraft/blob/main/README.md"
       },
       "pages": [
         {
@@ -627,7 +627,7 @@
           "title": "Rules",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-minecraft/blob/main/docs/RULES.md"
+            "value": "https://github.com/softmax-universe/cogame-minecraft/blob/main/docs/RULES.md"
           }
         },
         {
@@ -635,7 +635,7 @@
           "title": "Actions and the reply format",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-minecraft/blob/main/docs/ACTIONS.md"
+            "value": "https://github.com/softmax-universe/cogame-minecraft/blob/main/docs/ACTIONS.md"
           }
         },
         {
@@ -643,7 +643,7 @@
           "title": "The ObtainDiamond ladder",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-minecraft/blob/main/docs/MILESTONES.md"
+            "value": "https://github.com/softmax-universe/cogame-minecraft/blob/main/docs/MILESTONES.md"
           }
         },
         {
@@ -651,7 +651,7 @@
           "title": "What this is and is not a port of",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-minecraft/blob/main/docs/PORTING-MINECRAFT.md"
+            "value": "https://github.com/softmax-universe/cogame-minecraft/blob/main/docs/PORTING-MINECRAFT.md"
           }
         }
       ]
@@ -667,7 +667,7 @@
       "run": [
         "/bin/minecraft-player"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-minecraft/tree/main/src/minecraft/baselines.nim",
+      "source_url": "https://github.com/softmax-universe/cogame-minecraft/tree/main/src/minecraft/baselines.nim",
       "resources": {
         "requests": {
           "cpu": "100m",

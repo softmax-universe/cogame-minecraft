@@ -2,7 +2,7 @@
 
 Both the player endpoint (`/player`) and the global/spectator endpoint
 (`/global`, `/replay`) speak
-[Sprite v1](https://github.com/Metta-AI/bitworld/blob/master/docs/sprite_v1.md).
+[Sprite v1](https://github.com/softmax-universe/bitworld/blob/master/docs/sprite_v1.md).
 This document lists everything this coworld adds or changes relative to that
 base document; anything not mentioned here matches Sprite v1 exactly. Game
 semantics live in [`RULES.md`](RULES.md) and [`ACTIONS.md`](ACTIONS.md).

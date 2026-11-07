@@ -132,4 +132,4 @@ node tools/ci/viewer_smoke.mjs --bundle dist/static-replay-viewer \
 
 ## Licence
 
-MIT. Forked from [`Metta-AI/coworld-ctf`](https://github.com/Metta-AI/coworld-ctf).
+MIT. Forked from [`Metta-AI/coworld-ctf`](https://github.com/softmax-universe/coworld-ctf).
